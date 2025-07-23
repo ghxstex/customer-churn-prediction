@@ -32,7 +32,6 @@ The dataset contains information about customer demographics, account informatio
 
 ## 🚀 Try the Live App
 
-👉 [Click here to access the app](# Customer Churn Prediction Web App
 
 This project predicts whether a telecom customer is likely to **churn (leave the service)** or stay, based on their account and service details. It uses **Logistic Regression** for modeling and **Streamlit** for deployment.
 
